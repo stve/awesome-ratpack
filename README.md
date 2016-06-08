@@ -10,7 +10,7 @@
 
 ### Contributing
 
-Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.md) first.
+Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## Open Source
 
