@@ -28,6 +28,12 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Videos
 
+* [Rapid Ratpack Webapp Development](https://youtu.be/o2A-taPm3d0) by Danny Hyun (Greach 2017 conference talk) - Ratpack is a fully non-blocking, asynchronous, minimalistic web framework that focuses on developer friendliness and productivity. Learn about a modern, Java 8 based web framework that allows for rapid prototyping of web applications.
+
+* [Mastering Async](https://youtu.be/cHproCpCedE) by Danny Hyun (Greach 2017 conference talk) - covers the Ratpack concept of Promises, how to use promises, how to test it and how to control execution flow.
+
+* [Testing in Ratpack](https://youtu.be/qqPSSpFOvts) by Danny Hyun (Greach 2016 conference talk) - Learn about various testing fixtures and integration with Ratpack.
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
