@@ -20,6 +20,8 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Guides
 
+* [Testing Ratpack Applications](https://github.com/danhyun/2016-greach-testing-ratpack-applications) - Learn about various testing fixtures and integration with Ratpack. This is Github repo with samples and slides for Greach 2016 conference talk.
+
 
 ## Community
 
