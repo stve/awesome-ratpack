@@ -1,6 +1,6 @@
 # Awesome Ratpack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)][awesome] [![Build Status](https://img.shields.io/travis/stve/awesome-ratpack.svg)][travis]
 
-[<img src="https://cdn.rawgit.com/stve/awesome-ratpack/master/ratpack-logo.png" align="right" width="400">][ratpack]
+[<img src="https://raw.githubusercontent.com/stve/awesome-ratpack/master/ratpack-logo.png" align="right" width="400">][ratpack]
 
 [awesome]: https://github.com/sindresorhus/awesome
 [travis]: https://travis-ci.org/stve/awesome-ratpack
@@ -28,11 +28,11 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Videos
 
-* [Rapid Ratpack Webapp Development](https://youtu.be/o2A-taPm3d0) by Danny Hyun (Greach 2017 conference talk) - Ratpack is a fully non-blocking, asynchronous, minimalistic web framework that focuses on developer friendliness and productivity. Learn about a modern, Java 8 based web framework that allows for rapid prototyping of web applications.
+* [Rapid Ratpack Webapp Development](https://www.youtube.com/watch?v=o2A-taPm3d0) by Danny Hyun (Greach 2017 conference talk) - Ratpack is a fully non-blocking, asynchronous, minimalistic web framework that focuses on developer friendliness and productivity. Learn about a modern, Java 8 based web framework that allows for rapid prototyping of web applications.
 
-* [Mastering Async](https://youtu.be/cHproCpCedE) by Danny Hyun (Greach 2017 conference talk) - covers the Ratpack concept of Promises, how to use promises, how to test it and how to control execution flow.
+* [Mastering Async](https://www.youtube.com/watch?v=cHproCpCedE) by Danny Hyun (Greach 2017 conference talk) - covers the Ratpack concept of Promises, how to use promises, how to test it and how to control execution flow.
 
-* [Testing in Ratpack](https://youtu.be/qqPSSpFOvts) by Danny Hyun (Greach 2016 conference talk) - Learn about various testing fixtures and integration with Ratpack.
+* [Testing in Ratpack](https://www.youtube.com/watch?v=qqPSSpFOvts) by Danny Hyun (Greach 2016 conference talk) - Learn about various testing fixtures and integration with Ratpack.
 
 ## Contribute
 
